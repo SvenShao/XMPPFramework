@@ -1,8 +1,8 @@
 #import <Foundation/Foundation.h>
 #import "XMPPJID.h"
 
-@import KissXML;
-
+#import "KissXML.h"
+#import "KissXML.h"
 
 /**
  * The XMPPElement provides the base class for XMPPIQ, XMPPMessage & XMPPPresence.
