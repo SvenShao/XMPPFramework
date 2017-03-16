@@ -5,7 +5,7 @@
 
 
 #import "KissXML.h"
-@import CocoaAsyncSocket;
+#import "CocoaAsyncSocket.h"
 
 //#import <KissXML/KissXML.h>
 //#import <CocoaAsyncSocket/GCDAsyncSocket.h>
